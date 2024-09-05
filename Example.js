@@ -18,7 +18,7 @@ myEmiter.on('userJoined',sayHi)
 myEmiter.emit('userJoined')
 
 myEmiter.on('userJoined',sayHello)
-
+myEmitter.on('userJoined',say TO come)
 
 
 //server method
